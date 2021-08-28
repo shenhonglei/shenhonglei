@@ -1,7 +1,7 @@
 # SHEN HONG LEI
 
 - QingCloud 解决方案架构师，开源项目爱好者
-- 具有KubeSphere Member、Kubernetes管理员（CKA）、Google认证专家（GCP）云架构师、项目管理PMP、软考等相关认证相。
+- 具有KubeSphere Member、Kubernetes管理员（CKA）、Google认证专家（GCP）云架构师、项目管理PMP、软考等相关认证
 
 ## Interests
 
