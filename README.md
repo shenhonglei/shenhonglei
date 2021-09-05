@@ -2,6 +2,11 @@
 
 - QingCloud 解决方案架构师，开源项目爱好者
 - 具有KubeSphere Member、Kubernetes管理员（CKA）、Google认证专家（GCP）云架构师、项目管理PMP、软考等相关认证
+- [云原生社区上海站核心成员](https://cloudnative.to/city/shanghai/)、[2020年度优秀贡献者](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200012.png)
+- [KubeSphere Member](https://mp.weixin.qq.com/s/nP4eFLNC8ccRd5P5uJb6cg)、[KubeSphere 用户委员会上海站站长](#)
+- [CSDN 个人博客-记录分享站-访问量：161.4万](https://blog.csdn.net/shenhonglei1234)
+- [个人域名网站建设中…https://shenhonglei.com](https://shenhonglei.com)
+- [linkedin-领英](https://www.linkedin.com/in/honglei-shen-b98062206/)
 
 ## Interests
 
