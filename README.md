@@ -26,7 +26,13 @@ For more questions or feedbacks, please contact me by:
 
 - Email: <hongleishen@hotmail.com>
 - Twitter [@HongLeiShen](https://twitter.com/HongLeiShen)
-
+## Picture
+<img align="left" src="https://github.com/shenhonglei/shl-images/blob/main/shl/shl-QCon.jpg" /></a>
+<img align="left" src="https://github.com/shenhonglei/shl-images/blob/main/shl/shl-art-01.jpg" /></a>
+<img align="left" src="https://github.com/shenhonglei/shl-images/blob/main/shl/shl-art-02.jpg" /></a>
+<img align="left" src="https://github.com/shenhonglei/shl-images/blob/main/shl/shl-art-03.jpg" /></a>
+<img align="left" src="https://github.com/shenhonglei/shl-images/blob/main/shl/shl-meetup-ks-sh%201.jpg" /></a>
+<img align="left" src="https://github.com/shenhonglei/shl-images/blob/main/shl/shl-meetup-ks-sh%202.jpg" /></a>
 ## GitHub
 
 <a href="https://github.com/shenhonglei">
