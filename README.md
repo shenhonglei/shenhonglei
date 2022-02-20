@@ -40,7 +40,7 @@ For more questions or feedbacks, please contact me by:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenhonglei&layout=compact&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&locale=cn&card_width=445" />
 </a> -->
 <br>
-<hr/>
+<hr>
 
 ## Picture
 
