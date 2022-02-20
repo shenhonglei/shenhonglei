@@ -40,7 +40,10 @@ For more questions or feedbacks, please contact me by:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenhonglei&layout=compact&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&locale=cn&card_width=445" />
 </a> -->
 
+<hr>
+
 ## Picture
+
 <img align="left" src="https://github.com/shenhonglei/shl-images/blob/main/shl/shl-QCon.jpg" /></a>
 <img align="left" src="https://github.com/shenhonglei/shl-images/blob/main/shl/shl-meetup-ks-sh%201.jpg" /></a>
 
