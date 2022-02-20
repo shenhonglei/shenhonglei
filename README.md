@@ -26,9 +26,7 @@ For more questions or feedbacks, please contact me by:
 
 - Email: <hongleishen@hotmail.com>
 - Twitter [@HongLeiShen](https://twitter.com/HongLeiShen)
-## Picture
-<img align="left" src="https://github.com/shenhonglei/shl-images/blob/main/shl/shl-QCon.jpg" /></a>
-<img align="left" src="https://github.com/shenhonglei/shl-images/blob/main/shl/shl-meetup-ks-sh%201.jpg" /></a>
+
 ## GitHub
 
 <a href="https://github.com/shenhonglei">
@@ -36,9 +34,13 @@ For more questions or feedbacks, please contact me by:
 <a href="https://github.com/shenhonglei">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenhonglei&layout=compact&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&locale=en&card_width=445" />
 </a>
-<a href="https://github.com/shenhonglei">
+<!-- <a href="https://github.com/shenhonglei">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shenhonglei&count_private=true&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&locale=cn&card_width=445" />
 </a><a href="https://github.com/shenhonglei">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenhonglei&layout=compact&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe&locale=cn&card_width=445" />
-</a>
+</a> -->
+
+## Picture
+<img align="left" src="https://github.com/shenhonglei/shl-images/blob/main/shl/shl-QCon.jpg" /></a>
+<img align="left" src="https://github.com/shenhonglei/shl-images/blob/main/shl/shl-meetup-ks-sh%201.jpg" /></a>
 
