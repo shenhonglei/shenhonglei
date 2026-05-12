@@ -3,7 +3,7 @@
 - 杰创智能（301248）解决方案总监，开源项目爱好者
 深耕云计算与云原生领域 10 + 年，具备丰富的大规模容器平台建设、微服务改造、DevOps 落地实战经验，是 Kubernetes 开源生态贡献者与技术布道者，深度参与金融、政务、制造等行业标杆项目。现任杰创智能旗下常青云解决方案总监，带领方案团队专注 AI 算力底座与自主可控云计算，主导智慧城市、数智化基建、信创等重大项目的方案设计、架构规划与全流程交付；擅长将容器化、混合云、AI 大模型技术、智能体与行业场景深度融合，为行业客户提供 “建云、上云、用云、管云” 一体化解决方案，助力企业数字化与智能化升级。
 
-- 具有KubeSphere Member、Kubernetes管理员（CKA）、Google认证专家（GCP）云架构师、项目管理PMP、软考等相关认证
+- 具有KubeSphere Member、Kubernetes管理员（CKA）、Google认证专家（GCP）云架构师、项目管理PMP、系统集成项目管理工程师等相关认证
 - [开放原子教育银牌讲师](https://baijiahao.baidu.com/s?id=1710147433164746867&wfr=spider&for=pc)
 - [云原生社区上海站核心成员](https://cloudnative.to/city/shanghai/)、[2020年度优秀贡献者](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200012.png)
 - [KubeSphere Member](https://mp.weixin.qq.com/s/nP4eFLNC8ccRd5P5uJb6cg)、[KubeSphere 用户委员会上海站站长](#)
