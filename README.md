@@ -7,7 +7,7 @@
 - [开放原子教育银牌讲师](https://baijiahao.baidu.com/s?id=1710147433164746867&wfr=spider&for=pc)
 - [云原生社区上海站核心成员](https://cloudnative.to/city/shanghai/)、[2020年度优秀贡献者](https://raw.githubusercontent.com/cloudnativeto/community/master/certificate/2020/contributor/C20200012.png)
 - [KubeSphere Member](https://mp.weixin.qq.com/s/nP4eFLNC8ccRd5P5uJb6cg)、[KubeSphere 用户委员会上海站站长](#)
-- [CSDN 个人博客-记录分享站-访问量：170万](https://blog.csdn.net/shenhonglei1234)
+- [CSDN 个人博客-记录分享站-访问量：260万](https://blog.csdn.net/shenhonglei1234)
 - [个人域名网站建设中…https://shenhonglei.com](https://shenhonglei.com)
 - [linkedin-领英](https://www.linkedin.com/in/honglei-shen-b98062206/)
 
